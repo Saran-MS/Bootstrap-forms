@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    padding:2%
+}
+
+.container
+{
+    border: #007821; 
+    border-style: solid;
+     border-radius: 2%; 
+     padding: 2%; 
+     align-items: center; 
+     background-color: #ccffda;
+}
+
